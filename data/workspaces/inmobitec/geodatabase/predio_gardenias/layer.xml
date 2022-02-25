@@ -1,0 +1,17 @@
+<layer>
+  <name>predio_gardenias</name>
+  <id>LayerInfoImpl-7c5fe50a:17d52c67469:-7fdd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37b18cc6:14d5d036d48:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7c5fe50a:17d52c67469:-7fde</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-04 05:37:13.193 UTC</dateCreated>
+  <dateModified>2021-12-23 22:02:17.388 UTC</dateModified>
+</layer>

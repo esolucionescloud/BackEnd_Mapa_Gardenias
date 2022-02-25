@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><userRegistry xmlns="http://www.geoserver.org/security/users" version="1.0">
+<users>
+<user enabled="true" name="admin" password="digest1:D9miJH/hVgfxZJscMafEtbtliG0ROxhLfsznyWfG38X2pda2JOSV4POi55PQI4tw"/>
+<user enabled="true" name="inmobitec" password="digest1:AdPq23NJmHPwANw4iyosqE9tEUIQ05vNO85QO/YxyiJmUFFUnkaDvf9Z4b38L+2+"/>
+</users>
+<groups/>
+</userRegistry>

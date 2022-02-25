@@ -1,0 +1,16 @@
+<layer>
+  <name>otros_wgs</name>
+  <id>LayerInfoImpl-15c45830:17de9679ae3:-462</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-15c45830:17de9679ae3:-463</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-23 22:29:34.756 UTC</dateCreated>
+</layer>

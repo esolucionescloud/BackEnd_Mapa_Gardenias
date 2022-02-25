@@ -1,0 +1,16 @@
+<layer>
+  <name>manzanas_wgs</name>
+  <id>LayerInfoImpl-15c45830:17dba816041:-3d29</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-15c45830:17dba816041:-3d2a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-23 22:15:34.492 UTC</dateCreated>
+</layer>

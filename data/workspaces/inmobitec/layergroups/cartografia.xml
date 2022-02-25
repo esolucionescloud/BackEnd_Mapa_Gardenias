@@ -1,0 +1,60 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-15c45830:17e02e16573:31fa</id>
+  <name>cartografia</name>
+  <mode>SINGLE</mode>
+  <title>cartografia</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f195c83:17d369b6e2c:-7ffe</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-15c45830:17dba816041:-3d2b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-15c45830:17dba816041:-3d2d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-15c45830:17dba816041:-3d29</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-15c45830:17de9679ae3:-462</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-7c5fe50a:17d52c67469:-7fdd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-15c45830:17dba816041:-3d27</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-37b18cc6:14d5d036d48:-8000</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-76.3324584960938</minx>
+    <maxx>-76.3149261474609</maxx>
+    <miny>-13.1651735305786</miny>
+    <maxy>-13.1476497650146</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <dateCreated>2021-12-28 21:20:43.913 UTC</dateCreated>
+  <dateModified>2021-12-28 21:21:17.554 UTC</dateModified>
+</layerGroup>
